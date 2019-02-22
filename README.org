@@ -1,0 +1,3 @@
+* Old TicTacToe game
+- SWT for UI
+- minimax to only tie or win ( never lose )
